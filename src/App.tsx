@@ -122,6 +122,9 @@ function Navbar() {
               {link}
             </a>
           ))}
+          <a href="https://drive.google.com/file/d/1FxBXlgxlisxxlWl1MYnGQ6rcaXOfQwx1/view?usp=sharing" target="_blank" rel="noopener noreferrer" onClick={() => setMobileOpen(false)} className="block mt-3 px-4 py-2 rounded-lg bg-gradient-to-r from-cyan-500 to-violet-500 text-white text-sm font-semibold text-center hover:opacity-90 transition-opacity">
+            Resume
+          </a>
         </div>
       )}
     </nav>

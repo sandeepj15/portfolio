@@ -207,6 +207,9 @@ function Hero() {
           >
             Get in Touch
           </a>
+          <a href="https://drive.google.com/file/d/1FxBXlgxlisxxlWl1MYnGQ6rcaXOfQwx1/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="md:hidden px-8 py-3 rounded-xl bg-gradient-to-r from-cyan-500 to-violet-500 text-white font-semibold hover:shadow-lg hover:shadow-violet-500/25 transition-all hover:-translate-y-1">
+            Resume
+          </a>
         </div>
 
         {/* Stats */}
